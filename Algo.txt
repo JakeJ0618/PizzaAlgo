@@ -6,3 +6,4 @@ Choose toppings for the pizza
 Add items to the cart
 Enter in your debit/credit card information
 Order and enjoy your pizza
+Throw away pizza box in the trash can
