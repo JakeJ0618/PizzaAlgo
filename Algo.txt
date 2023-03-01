@@ -1,0 +1,8 @@
+Pick the pizza place
+Choose what kind of crust you want
+Choose want kind of sauce you want 
+Choose what kind of cheese you want
+Choose toppings for the pizza
+Add items to the cart
+Enter in your debit/credit card information
+Order and enjoy your pizza
